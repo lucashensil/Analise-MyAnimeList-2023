@@ -6,11 +6,12 @@ Este é um projeto de análise de dados que visa responder a várias perguntas r
 
 1. Quais gêneros são mais e menos encontrados entre os animes?
 2. Quais são as estatísticas dos scores dos animes?
-2.5. Quais são os animes que se encontram nos dois extremos de score?
-3. Existe alguma correlação entre o número de episódios e a popularidade de um anime?
-4. Os animes com maior pontuação (Score) também são os mais populares?
-5. Quais são os gêneros com a maior pontuação (score) média?
-6. Qual é a distribuição dos animes por classificação de faixa etária (Rating)?
+   
+   2.5. Quais são os animes que se encontram nos dois extremos de score?
+4. Existe alguma correlação entre o número de episódios e a popularidade de um anime?
+5. Os animes com maior pontuação (Score) também são os mais populares?
+6. Quais são os gêneros com a maior pontuação (score) média?
+7. Qual é a distribuição dos animes por classificação de faixa etária (Rating)?
 
 ## Como Usar Este Projeto
 
